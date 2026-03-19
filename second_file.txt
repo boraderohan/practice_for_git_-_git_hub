@@ -1,3 +1,7 @@
 
 
 It is the second file of text which is used to commit the changes the in the history and merge and merge commit or squash commit to check wether the feature you added is assign to some how can appove you work and commit it to the main branch of the repo
+
+
+this feature is which im working on is the best feature for the continueos deployment
+
